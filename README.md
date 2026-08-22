@@ -3,7 +3,7 @@
 Data mining project comparing nine automatic text summarization methods — spanning statistical/graph-based extractive, clustering-based extractive, supervised sentence-selection, and transformer-based abstractive approaches — on the BBC News Summary dataset.
 
 **Authors:** Anish Kumar Singh, Jeewan Bhatt
-Department of Electronics and Computer Engineering, Thapathali Campus, Institute of Engineering, Tribhuvan University, Kathmandu, Nepal
+
 
 ## Overview
 
